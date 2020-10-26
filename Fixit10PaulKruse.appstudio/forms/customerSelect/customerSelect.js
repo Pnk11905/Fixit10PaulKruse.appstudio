@@ -1,3 +1,4 @@
+// global variables
 let req = ""
 let query = ""
 let query2 = ""
